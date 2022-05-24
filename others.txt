@@ -1,0 +1,28 @@
+
+2019, red , cerato , automatic, 210000),2019, blue, cerato, manual, 180000),
+2019, blue , cerato , automatic, 210000),2019, black, cerato, manual, 180000),
+2020, red , soul , automatic,450000),2019, red, cerato, manual, 180000),
+2020, black, soul , automatic,450000),2020, blue, soul, manual,415000),
+2020, blue , soul , automatic,450000),2020, black, soul, manual,415000),
+2020, black, rio , automatic ,250000),2020, red, soul, manual,415000),
+2020, red , rio , automatic,250000),2020, blue, rio, manual , 210000),
+2020, blue , rio , automatic,250000),2020, red, rio, manual, 210000),
+2020, black, sportage, automatic , 500000),2020, black, rio, manual, 210000),
+2020, red , sportage, automatic, 500000),2020, blue, sportage, manual , 450000),
+2020, blue , sportage, automatic, 500000),2020, red, sportage, manual, 450000),
+2020, black, cerato , automatic, 250000),2020, black, sportage, manual, 450000),
+2020, red , cerato , automatic, 250000),2020, blue, cerato, manual,200000),
+2020, blue , cerato , automatic, 250000),2020, black, cerato, manual,200000),
+2021, red , soul , automatic , 500000),2020, red, cerato, manual,200000),
+2021, black, soul , automatic, 500000),2021, red, soul, manul,470000),
+2021, blue , soul , automatic, 500000),2021, blue, soul, manual,470000),
+2021, black, rio , automatic , 270000),2021, black, soul, manual,470000),
+2021, red , rio , automatic, 270000),2021, blue, rio, manual,240000),
+2021, blue , rio , automatic, 270000),2021, red, rio, manual,240000),
+2021, black, sportage, automatic ,520000),2021, black, rio, manual,240000),
+2021, red , sportage, automatic,520000),2021, blue, sportage, manual, 490000),
+2021, blue , sportage, automatic,520000),2021, red, sportage, manual, 490000),
+2021, black, cerato , automatic , 300000),2021, black, sportage, manual, 490000),
+2021, red , cerato , automatic, 300000),2021, blue, cerato, manual,280000
+2021, blue , cerato , automatic, 300000),2021, black, cerato, manual,280000
+2021, red, cerato, manual,280000
